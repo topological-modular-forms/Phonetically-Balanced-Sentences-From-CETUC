@@ -1,5 +1,5 @@
 # Phonetically-Balanced-Sentences-From-CETUC
-This repository contains the 1000 phonetically balanced sentences selected from the CETEN-Folha corpus used in the CETUC dataset. See https://portuguese.stackexchange.com/questions/9768
+This repository contains the 1000 phonetically balanced sentences selected from the CETEN-Folha corpus used in the CETUC dataset. See https://portuguese.stackexchange.com/questions/9768.
 
 0001. Pesquisa é uma coisa que muda a toda hora
 0002. No total serão chamados vinte e seis mil candidatos
