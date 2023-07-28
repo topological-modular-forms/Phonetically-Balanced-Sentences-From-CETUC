@@ -133,7 +133,7 @@ I wasn't able to access the original dataset via [http://www.lps.ufrj.br/voz/100
 0123. O principal segredo para fazer uma boa salada é caprichar no visual.
 0124. No inverno esta variação é menor mas ainda existe.
 0125. Silêncio custa nove mil dólares ao técnico da Romênia.
-0126. Fiz o que a maioria procurou fazer evitei provocar marola.
+0126. Fiz o que a maioria procurou fazer: evitei provocar marola.
 0127. Uma versão da história de amor de tristão e isolda.
 0128. O livro é ilustrado por Zélia Suassuna, mulher do autor.
 0129. A maior alta foi registrada em Salvador, de dezoito por cento.
